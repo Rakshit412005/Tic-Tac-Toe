@@ -25,4 +25,16 @@ Click on the "Reset" button to start a new game.
 
 index.html: The main HTML file containing the structure of the game.
 styles.css: The CSS file for styling the game.
-script.js: The JavaScript file containing the game logic.
+app.js: The JavaScript file containing the game logic.
+
+Future Improvements
+Some ideas for future enhancements include:
+
+Adding an AI opponent for single-player mode.
+Including different difficulty levels.
+Enhancing the UI with animations and sound effects.
+Adding a score tracker to keep track of wins and draws.
+
+Acknowledgments
+Inspiration for this project came from the classic Tic Tac Toe game we all know and love.
+Thanks to the open-source community for providing valuable resources and guidance.
